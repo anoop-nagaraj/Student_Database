@@ -26,4 +26,4 @@ A C++ student database application that manages courses, students and enrollment
 | FR13   | The user shall be able to import multiple generated students in one operation.                                      |
 | FR14   | The system shall terminate the server connection cleanly after data retrieval.                                      |
 
-![System Diagram](images/Student_DB.PNG)
+![System Diagram](docs/Student_DB.PNG)
